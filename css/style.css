@@ -1,0 +1,12 @@
+.form{
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-left: 40%;
+    margin-right: 10%;
+    margin-top: 1%;
+    padding: 10px;
+    background: linear-gradient(to right,#94a5d6,#96f0f7,rgb(154, 159, 189));
+}
+#te{
+    font-style: italic;
+}
